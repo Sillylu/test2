@@ -1,1 +1,2 @@
 This is a new file in test branch, not in master branch
+changed by Sam again 2016-07-05 13:00.
